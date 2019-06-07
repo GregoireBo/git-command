@@ -20,4 +20,4 @@ MERGE
 - git branch -d new-feature
 
 AJOUTER UN FICHIER AU DOSSIER LOCAL
-echo "contenu" >> nomfichier.txt
+- echo "contenu" >> nomfichier.txt
