@@ -1,5 +1,7 @@
 # git-command
 
+CLONNER UN REPOSITORY
+- git clone %url% %chemin%
 
 AJOUTER UN FICHIER AU COMMIT
 - git add file.txt
